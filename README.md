@@ -47,7 +47,7 @@ deactivate
 python infoscan2.py --domain example.com
 
 # Generate fake data
-python infoscan2.py --fake
+python infoscan2.py --faker
 ```
 
 ## Contributing
@@ -57,7 +57,8 @@ Created and developed by Sovit Jung Rijal with some help of AI in the port and S
 ## License
 Open Source 
 
-## Contact
+
+Contact
 https://linktr.ee/sovit.jung.rijal
 
 https://linktr.ee/sovit.jung.rijal
