@@ -48,7 +48,6 @@ python infoscan2.py --domain example.com
 
 # Generate fake data
 python infoscan2.py --faker
-```
 
 ## Contributing
 Created and developed by Sovit Jung Rijal with some help of AI in the port and SSL modules .
